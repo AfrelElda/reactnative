@@ -7,7 +7,7 @@ export default class Login extends Component {
 		<View style={styles.container}>
 		<Image
 		style={{width:70, height:50}}
-		source={require('./Foto/fofo.jpg')}
+		source={require('./afrel.jpg')}
 		/>
 		<TextInput
 		style={styles.inputBox}
